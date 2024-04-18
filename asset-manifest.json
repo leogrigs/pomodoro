@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/easy-focus/static/css/main.48e46e97.css",
+    "main.js": "/easy-focus/static/js/main.9adbb840.js",
+    "static/js/453.304c1d08.chunk.js": "/easy-focus/static/js/453.304c1d08.chunk.js",
+    "index.html": "/easy-focus/index.html",
+    "main.48e46e97.css.map": "/easy-focus/static/css/main.48e46e97.css.map",
+    "main.9adbb840.js.map": "/easy-focus/static/js/main.9adbb840.js.map",
+    "453.304c1d08.chunk.js.map": "/easy-focus/static/js/453.304c1d08.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48e46e97.css",
+    "static/js/main.9adbb840.js"
+  ]
+}
