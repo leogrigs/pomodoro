@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/easy-focus/static/css/main.78c1d688.css",
-    "main.js": "/easy-focus/static/js/main.592e12fb.js",
+    "main.css": "/easy-focus/static/css/main.9700688d.css",
+    "main.js": "/easy-focus/static/js/main.4f70b604.js",
     "static/js/453.304c1d08.chunk.js": "/easy-focus/static/js/453.304c1d08.chunk.js",
     "index.html": "/easy-focus/index.html",
-    "main.78c1d688.css.map": "/easy-focus/static/css/main.78c1d688.css.map",
-    "main.592e12fb.js.map": "/easy-focus/static/js/main.592e12fb.js.map",
+    "main.9700688d.css.map": "/easy-focus/static/css/main.9700688d.css.map",
+    "main.4f70b604.js.map": "/easy-focus/static/js/main.4f70b604.js.map",
     "453.304c1d08.chunk.js.map": "/easy-focus/static/js/453.304c1d08.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.78c1d688.css",
-    "static/js/main.592e12fb.js"
+    "static/css/main.9700688d.css",
+    "static/js/main.4f70b604.js"
   ]
 }
